@@ -1,4 +1,4 @@
-## Hi there 👋
+Personal website: https://weijingwang.github.io/
 
 <!--
 **weijingwang/weijingwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
